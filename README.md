@@ -3,8 +3,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rochelrodriguesc/)
 
-![Rochel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochelrrc&show_icons=true&theme=radical)
-[![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rochelrrc&layout=compact&langs_count=8&theme=algolia)](https://github.com/Rochelrrc/Rochelrrc)
+![Rochel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochelrrc&show_icons=true&theme=radical)<br/>
+[![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rochelrrc&layout=compact&langs_count=8&theme=radical)](https://github.com/Rochelrrc/Rochelrrc)
 
 ## Tecnologias que uso no dia a dia:
 <div style="display: inline_block"><br/>
