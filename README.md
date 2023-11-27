@@ -1,6 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right" >
 
  ## Eai, como vai? Prazer, eu sou o Rochel e seja muito bem vindo ao meu mundo!👋
+ <h3> Explorando o mundo da tecnologia tal qual o Ash Ketchum versão nordestina!</h3>
+
+ - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Formação **FullStack** pela <a href="https://cubos.academy">Cubos Academy</a>.
 
  ## Minhas Skills:
 <p align="left">
