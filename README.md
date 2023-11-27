@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right" >
 
-<h2>Eai, como vai? Prazer, eu sou o Rochel e seja muito bem vindo ao meu mundo!👋</h2>
+ ## Eai, como vai? Prazer, eu sou o Rochel e seja muito bem vindo ao meu mundo!👋
 
 <div style="display: inline_block">
  
