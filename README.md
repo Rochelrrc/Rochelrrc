@@ -12,7 +12,7 @@
 ## Minhas Skills:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,js,react,github,ts," />
+    <img src="https://skillicons.dev/icons?i=html,css,react,js,nodejs,github,ts," />
   </a>
 </p>
 
