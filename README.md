@@ -2,8 +2,9 @@
 
  ## Prazer, eu sou o Rochel e seja muito bem vindo ao meu mundo!👋
  <h3> Explorando o mundo da tecnologia tal qual o Ash Ketchum versão nordestina!</h3>
+ 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rochelrodriguesc/)
-
+ 
  - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formação **FullStack** pela <a href="https://cubos.academy">Cubos Academy</a>.
 
