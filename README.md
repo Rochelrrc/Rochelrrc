@@ -1,4 +1,6 @@
-### Eai, como vai? Prazer, eu sou o Rochel e seja muito bem vindo ao meu mundo!👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<h1>Eai, como vai? Prazer, eu sou o Rochel e seja muito bem vindo ao meu mundo!👋</h1>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rochelrodriguesc/)
