@@ -2,6 +2,7 @@
 
  ## Prazer, eu sou o Rochel e seja muito bem vindo ao meu mundo!👋
  <h3> Explorando o mundo da tecnologia tal qual o Ash Ketchum versão nordestina!</h3>
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rochelrodriguesc/)
 
  - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formação **FullStack** pela <a href="https://cubos.academy">Cubos Academy</a>.
@@ -15,7 +16,7 @@
 
 <div style="display: inline_block">
  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rochelrodriguesc/)
+
 
 ![Rochel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochelrrc&show_icons=true&theme=radical) [![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rochelrrc&layout=compact&langs_count=8&theme=radical)](https://github.com/Rochelrrc/Rochelrrc)
 
