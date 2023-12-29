@@ -9,8 +9,8 @@
 - 🎓 Formação **FullStack** pela <a href="https://cubos.academy">Cubos Academy</a>.
 
 ## Projetos:
--🕵️ Login Harpia: <a href= "https://github.com/Rochelrrc/ISH-Front-Desafio-React">Link de teste</a>
--🎶 Player Cubos: <a href="https://github.com/Rochelrrc/Projeto-Player">Link de teste</a>
+- 🕵️ Login Harpia: <a href= "https://github.com/Rochelrrc/ISH-Front-Desafio-React">Link de teste</a>
+- 🎶 Player Cubos: <a href="https://github.com/Rochelrrc/Projeto-Player">Link de teste</a>
 
  ## Minhas Skills:
 <p align="left">
