@@ -9,7 +9,7 @@
 - 🎓 Formação **FullStack** pela <a href="https://cubos.academy">Cubos Academy</a>.
 
 ## Projetos:
-- 🕵️ Login Harpia: <a href= "https://ish-harpia-desafio.netlify.app" target= "_blank">Link de teste</a>
+- 🕵️ Login Harpia: <a href= "https://ish-harpia-desafio.netlify.app" target="_blank">Link de teste</a>
   - <a href="https://ish-harpia-desafio.netlify.app">Link do Repositório</a>
 - 🎶 Player Cubos: <a href="https://projetorrc-player.netlify.app">Link de teste</a>
   - <a href= "https://github.com/Rochelrrc/Projeto-Player"> Link do Repositório</a> 
