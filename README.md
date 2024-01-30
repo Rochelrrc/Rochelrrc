@@ -7,6 +7,7 @@
  
  - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formação **FullStack** pela <a href="https://cubos.academy">Cubos Academy</a>.
+- 👨🏼‍💻 <a href="https://portfolio-rocheldev.netlify.app">Meu portfolío</a> 
 
 ## Projetos:
 - 🕵️ Login Harpia: <a href= "https://ish-harpia-desafio.netlify.app" target="_blank">Link de teste</a>
