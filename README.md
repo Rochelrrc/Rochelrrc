@@ -21,7 +21,7 @@
  ## Minhas Skills:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,js,github,ts,materialui,figma,tailwind," />
+    <img src="https://skillicons.dev/icons?i=html,css,react,js,github,ts,materialui,figma,tailwind,nextjs," />
   </a>
 </p>
 
