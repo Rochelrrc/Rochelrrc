@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right" >
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right" z-index="100" >
 
  ## Prazer, eu sou o Rochel e seja muito bem vindo ao meu mundo!👋
  <h3> Explorando o mundo da tecnologia tal qual o Ash Ketchum versão nordestina!</h3>
