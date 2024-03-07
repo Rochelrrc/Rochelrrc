@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right" z-index="100" >
 
- <h2 border-bottom="none">Prazer, eu sou o Rochel e seja muito bem vindo ao meu mundo!👋</h2>
+ <h2 style="border-bottom: none">Prazer, eu sou o Rochel e seja muito bem vindo ao meu mundo!👋</h2>
  <h3> Explorando o mundo da tecnologia tal qual o Ash Ketchum versão nordestina!</h3>
  
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rochelrodriguesc/)
